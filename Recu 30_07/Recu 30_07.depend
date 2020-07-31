@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1593424753 source:/home/rony/D_Ubuntu/Recu 30_07/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1590167422 /home/rony/D_Ubuntu/Recu 30_07/utn.h
+
+1596155930 source:/home/rony/D_Ubuntu/Recu 30_07/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"utn.h"
+	<ctype.h>
+	"lib.h"
+
+1596157742 /home/rony/D_Ubuntu/Recu 30_07/lib.h
+
+1596157756 source:/home/rony/D_Ubuntu/Recu 30_07/lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio_ext.h>
+	"utn.h"
+	<ctype.h>
+	"lib.h"
+
